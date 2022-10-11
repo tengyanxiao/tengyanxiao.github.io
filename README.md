@@ -17,14 +17,14 @@
 		
 			
 			<td width="500">
-				<font face="Arial"> <b><font size="5">Xiaojun Wan</font></b><p>
+				<font face="Arial"> <b><font size="5">Peiyan Song</font></b><p>
 				Professor </p></font><p><font face="Arial">
-				<a href="http://www.wict.pku.edu.cn/">Wangxuan Institute of Computer Technology</a><br>
-				<a href="http://www.pku.edu.cn/">Peking University</a><br>
-				Office: Room 210, No.128 Zhongguancun North Street, Haidian District, Beijing 100080, China<br>
-				Phone: (86) 10-82529548 <br>
+				<a href="https://glxy.tjnu.edu.cn/">Management School of Tianjin Normal University</a><br>
+				<a href="https://www.tjnu.edu.cn/">Peking University</a><br>
+				Office:Tianjin, China<br>
+				Phone: (86) 0000000 <br>
 			
-				Email: <font size="2"><b>wanxiaojun AT pku DOT edu DOT cn</b></font></font>
+				Email: <font size="2"><b> spyer2008@126.com</b></font></font>
 								
 			</p></td>
 		</tr>
