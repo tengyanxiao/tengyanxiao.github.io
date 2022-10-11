@@ -31,3 +31,10 @@
 								
 			</p></td>
 		</tr>
+		<tr>
+			<td width="50">
+			</td>
+			<td colspan="3" align="left" height="20" valign="top" width="750">
+				<hr>
+			</td>
+		</tr>
