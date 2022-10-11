@@ -12,6 +12,4 @@
 			<td width="30">
 				
 			</td>
-			<td width="220">
-				<img src="./wan2016.jpg" width="148">
-			</td>
+			
