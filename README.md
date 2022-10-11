@@ -130,16 +130,7 @@
 				  <li>I have also worked with many diligent, honest and talented undergraduate students. </li>
 				</ul>
 
-                <h3>Links</h3>
-				<ul>
-				  <li><a href="https://sites.google.com/site/wanxiaojun1979">My Former Website on Google Sites</a> </li>
-				</ul>
-				
-				<hr>
-				<i>Last Updated: August 2022.              Visitor number: <a href="http://www.hitwebcounter.com" target="_blank" >
-                <img src="http://hitwebcounter.com/counter/counter.php?page=7029686&style=0006&nbdigits=8&type=page&initCount=0" title="URL Counter" Alt="URL Counter"   border="0" >
-               </a>
-               </i>               
+             
 				
 			</td>
 		</tr>
