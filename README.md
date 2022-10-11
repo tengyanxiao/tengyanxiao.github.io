@@ -1,279 +1,160 @@
-# tengyanxiao.github.io
-<!DOCTYPE html>
-<html lang="zh">
-    <head>
-        <meta charset="utf-8" />
-        <title>
-            
-                TT
-            
-            
+
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<title>Welcome to Prof. Xiaojun Wan's Homepage</title>
+
+<body>
+
+<font face="Times New Roman">	
+	<center>	
+	<table border="0" cellpadding="0" cellspacing="0" width="800">
+		<tbody><tr>
+			<td colspan="4"></td>
+		</tr>
+		<tr>
+			<td valign="bottom">
+				
+			</td>
+			<td width="30">
+				
+			</td>
+			<td width="220">
+				<img src="./wan2016.jpg" width="148">
+			</td>
+			
+			<td width="500">
+				<font face="Arial"> <b><font size="5">Xiaojun Wan</font></b><p>
+				Professor </p></font><p><font face="Arial">
+				<a href="http://www.wict.pku.edu.cn/">Wangxuan Institute of Computer Technology</a><br>
+				<a href="http://www.pku.edu.cn/">Peking University</a><br>
+				Office: Room 210, No.128 Zhongguancun North Street, Haidian District, Beijing 100080, China<br>
+				Phone: (86) 10-82529548 <br>
+			
+				Email: <font size="2"><b>wanxiaojun AT pku DOT edu DOT cn</b></font></font>
+								
+			</p></td>
+		</tr>
+		<tr>
+			<td width="50">
+			</td>
+			<td colspan="3" align="left" height="20" valign="top" width="750">
+				<hr>
+			</td>
+		</tr>
+
+		<tr>
+			<td width="50">
+			</td>
+			<td colspan="3" align="left" height="20" valign="top" width="750">
+				
+				I am a Professor with Wangxuan Institute of Computer Technology (<a href="http://www.wict.pku.edu.cn">WICT</a>, formerly known as Institute of Computer Science and Technology),
+Peking University (<a href="http://www.pku.edu.cn/">PKU</a>), China. I received B.S. in Information Sciences from Department of Information Management of PKU in 2000,  M.S. and Ph.D. in Computer Science from Department of Computer Science and Technology of PKU in 2003 and 2006 respectively.
+				
+				<h3>Research</h3>
+				
+				My research interests include Natural Language Processing and Text Mining. I am broadly interested in several research topics including document summarization, text generation, sentiment analysis, semantic parsing, multilingual and multimodal NLP. 
+				
+                <!--<h3>Research Group: ONE(WAN) NLP Group </h3>-->
                 
-                    
-                
-            
-        </title>
-        <meta name="description" content="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <meta name="keywords" content="天津师范大学, thunlp, 天津师范自然语言处理, 天津师范自然语言处理与社会人文计算实验室" />
+				<h3>Publications</h3>
+				<ul>
+					<li><a href="./publications.htm">Selected Publications</a></li>
+                    <li><a href="https://scholar.google.com/citations?user=lTTeBdkAAAAJ&hl=en&oi=ao">Google Scholar</a></li>
+					<li><a href="https://dblp.uni-trier.de/pid/07/1521.html">DBLP</a></li>
+				</ul>
 
-        
-        <link href="/static/css/main.1ae1013a919e.css" type="text/css" rel="stylesheet" />
+                <h3>Honors and Awards</h3>
+				<ul>
+                  <li>  <b>Distinguished Paper Award, IJCAI 2018 </b> </li>
+                  <li>  <b>Outstanding Paper Award, ACL 2017 </b> </li>
+                  <li>  Tsang Hin-chi Faculty Fellowship Award, 2019 </li>
+                  <li>  PKU Teaching Excellence Award, 2019 </li>
+                  <li>  PKU Industry-Academy-Research (ChanXueYan) Cooperation Award, 2019 </li>
+                  <li>  PKU Yang&Wang Faculty Fellowship Award, 2018 </li>
+                  <li>  CCF NLPCC Distinguished Young Scientist, 2017 </li> 
+                  <li>  CAAI WUWENJUN Technical Innovation Award, 2017 </li> 
+                  <li>  IBM Faculty Award, 2015 </li>
+				  <li>  PKU Baosteel Faculty Fellowship Award, 2013 </li>
+				  <li>  PKU "WangXuan" Young Investigator Award, 2010 </li>
+                  <li>  Best Reviewer, EMNLP 2010 </li>
+                  <li>  Excellent Doctoral Dissertation of PKU, 2009 </li>
+                  <li>  PKU P&G Faculty Fellowship Award, 2008 </li>
+                  <li>  Recipient of Beijing Nova Program, 2008 </li>
+                  <li>  Recipient of The MOE Program for New Century Excellent Talents in University (NCET), 2008 </li>
+				</ul>
 
-        
-    <link href="/static/css/slider.87dde261d566.css" type="text/css" rel="stylesheet" />
-    <link href="/static/css/home.29456b5133ec.css" type="text/css" rel="stylesheet" />
+				<h3>Selected Academic Services</h3>
+				<ul>
+				  <li><b> Senior Action Editor</b>: ACL Rolling Review (2022-) </li>
+                  <li><b> Action Editor</b>: TACL (2019-), ACL Rolling Review (2021-2022) </li>
+                  <li><b> Editorial Board Member</b>: Journal of Computer Science and Technology (2020-2023), Natural Language Engineering (2019-), Computational Linguistics (2016-2018) </li>
+                  <li><b> PC Chair</b>: EMNLP-IJCNLP 2019 </li>
+                  <li><b> Area Chair</b>: EMNLP 2022 (SAC), EMNLP 2021 (SAC), ACL 2021, NAACL 2021, IJCAI 2021, EACL 2021, EMNLP 2020 (SAC), ACL 2020, AACL/IJCNLP 2020, ACL 2019, EMNLP 2018, NAACL-HLT 2018, IJCNLP 2017, NAACL-HLT 2016, ACL-IJCNLP 2015, ACL 2011, IJCNLP 2011 </li>
+                  <li><b> Senior PC Member(SPC)</b>: IJCAI 2016/2018~2020/2022, AAAI 2019~2023 </li>
+                  <li><b> Best Paper Committee</b>: EMNLP 2015 </li>	  
+                  <li><b> Standing Reviewing Committee</b>: TACL (2014~2019) </li>
+				  <li><b> Workshop Organizer</b>: ACL Workshop on Multilingual Modeling (MM-2012) </li>
+				  <li><b> Organization Chair</b>: NLPCC 2020~2022 </li>
+                  <li><b> Evaluation Chair</b>: NLPCC 2012~2018 </li>
+				</ul>
+				
+                <h3>Shared Tasks, Evaluations and Datasets</h3>
+				<ul>
+				  <li><b>CC-Riddle: A Question Answering Dataset of Chinese Character Riddles</b> (<a href="https://arxiv.org/abs/2206.13778">paper</a>, <a href="https://github.com/sailxuOvO/CC-Riddle">data</a>) <img src="./new.jpg" width="40" height="20"> </li>
+				  <li><b>BiRdQA: A Bilingual Dataset for Question Answering on Tricky Riddles</b> (<a href="https://arxiv.org/abs/2109.11087">paper</a>, <a href="https://forms.gle/NvT7DfWhAPhvoFvH7">data</a>) <img src="./new.jpg" width="40" height="20"> </li>
+				  <li><b>CodeQA: A free-form question answering dataset for source code comprehension</b> (<a href="https://aclanthology.org/2021.findings-emnlp.223.pdf">paper</a>, <a href="https://github.com/jadecxliu/CodeQA">data</a>) <img src="./new.jpg" width="40" height="20"> </li>
+				  <li><b>ParaSCI: A large-scale paraphrase dataset in the scientific field</b> (<a href="./EACL2021Camera.pdf">paper</a>, <a href="https://github.com/dqxiu/ParaSCI">data</a>) <img src="./new.jpg" width="40" height="20"> </li>
+                  <li><b>Single Document Summarization (Chinese)</b> @ NLPCC 2017 (<a href="http://tcci.ccf.org.cn/conference/2017/taskdata.php">link</a>, <a href="./NLPCC2017-Overview.pdf">overview paper</a>, <a href="https://pan.baidu.com/s/1bppQ4z1">data</a>) </li>
+				  <li><b>Sports News Generation from Live Webcast scripts</b> @ NLPCC-ICCPOL 2016 (<a href="http://tcci.ccf.org.cn/conference/2016/pages/page05_evadata.html">link</a>, <a href="./NLPCC2016-Overview.pdf">overview paper</a>, <a href="./NLPCC2016Eval-Task5-AllData.rar">data</a>) </li>
+                  <li><b>Weibo-Oriented Chinese News Summarization</b> @ NLPCC 2015 (<a href="http://tcci.ccf.org.cn/conference/2015/pages/page05_evadata.html">link</a>, <a href="./NLPCC2015-Overview.pdf">overview paper</a>, <a href="./NLPCC2015Eval-Task4-AllData.rar">data</a>)</li>
+				  <li><b>Cross-Lingual Sentiment Classification</b> @ NLPCC 2013 (<a href="http://tcci.ccf.org.cn/conference/2013/pages/page04_eva.html">link</a>, <a href="./NLPCC2013-Overview.ppt">overview slides</a>, <a href="./NLPCC2013CLSentimentData.zip">data</a>)</li>
+                </ul>
 
-    </head>
+                <h3>Selected Systems</h3>
+				<ul>
+                  <li><b>XiaoKe</b> : A cross-language news generation system for generating scientific news stories about the latest discoveries from the world's leading science journals. The system has been deployed in China Science Daily and you can see examples <a href="http://news.sciencenet.cn/AInews/">here</a>. You can refer to <a href="http://www.xinhuanet.com/english/2019-08/01/c_138276296.htm?from=singlemessage&isappinstalled=0">the news report</a> to know more about XiaoKe. </li>
+                  <li><b>XiaoNan</b> : A data-to-text generation system for writing people's livelihood news. The system has been deployed in Southern Metropolis Daily and it can write news articles in various domains, including weather reports, train tickets, etc. See examples <a href="http://m.mp.oeeee.com/u/1534.html">here</a>. </li>
+				  <li><b>PKUWriter</b> : A system for constructing sports news from live text commentary (<a href="./acl16_sports.pdf">paper</a>). The technology has been transferred to Toutiao's AI reporter - <a href="http://www.toutiao.com/m50050770286/">Xiaomingbot</a> and further used by Guangmingwang in the <a href="http://sports.gmw.cn/node_9629.htm">GuangMing AI reporter</a>.</li>
+                  <li><b>PKUSUMSUM</b> : A Java platform for unsupervised multilingual document summarization (<a href="./pkusumsum.htm">link</a>) </li>
+                </ul>
 
-    <body class="template-homepage">
-        
+				<h3>Teaching</h3>
+				<ul>
+				  <li><b>Web Data Mining</b> (Undergraduate course, Fall 2011~2022)</li>
+				  <li><b>Semantic Computing and Knowledge Retrieval</b> (Postgraduate course, Fall 2011~2014, Spring 2016~2022)</li>
+				  <li><b>Social Media Measurement</b> (Postgraduate course, Co-directed with Prof. Xiuli Wang, Spring 2016, 2018~2020)</li>
+				</ul>
 
-        <div class="block-row navigation">
-    <div class="block">
-        <div class="navigation-button"><a href="/">网站首页</a></div>
-        <div class="navigation-button"><a href="/publication/">论文发表</a></div>
-        <div class="navigation-button"><a href="/staff/">研究队伍</a></div>
-        <div class="navigation-button"><a href="/news/">新闻列表</a></div>
-        <div class="navigation-button"><a href="/patent/">专利列表</a></div>
-        <div class="navigation-button"><a href="/science/">科研项目</a></div>
-	    <div class="navigation-button"><a href="/project/">开源项目</a></div>
-        <div class="navigation-button"><a href="/static/thunlp_norms_202209.pdf">组内规范</a></div>
-        <div class="navigation-button"><a href="/news/%E6%8B%9B%E8%81%98-%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6nlp%E5%AE%9E%E9%AA%8C%E5%AE%A4%E6%8B%9B%E8%81%98%E5%8D%9A%E5%A3%AB%E5%90%8E/">英才招聘</a></div>
-        <div class="navigation-button">
-            <a href="/">
-                <div class="menu-icon-container"><div class="menu-icon"></div></div>
-            </a>
-        </div>
-    </div>
-</div>
+                <h3>Students</h3>
+				<ul>
+				  <li><b>PhD students</b>: Zi Chai, Hui Liu, Zhaohong Wan, Xinyu Hu</li>
+				  <li><b>Master students</b>: Renliang Sun, Zhixian Yang, Xiang Chen</li>
+				</ul>
 
+                <h3>Alumni</h3>
+				<ul>
+				  <li><b>PhD</b>: Xiaojiang Huang(Microsoft),  Jin-ge Yao(MSRA), Xinjie Zhou(Microsoft), Jiwei Tan(Alibaba), Ke Wang(Huawei)</li>
+				  <li><b>MS</b>: Tengfei Ma(IBM), Liqiang Guo(Microsoft), Houping Jia(IBM), Shanshan Huang(China Life Insurance), Xuewei Tang(WeCash), Yue Hu(Alibaba), Su Yan(Alibaba), Yantao Du(Google), Shiyang Wen(Alibaba), Yang Yu(An Army Unit), Xun Zhang(Alibaba), Jianmin Zhang(Pony.ai), Kui Xu(JD), Junjie Cao(Alibaba), Tianming Wang(Alibaba), Hongyu Zang(Microsoft), Mengyu Zhang(Huawei), Lixin Liu(Alibaba), Zhiwei Yu(MSRA), Minghao Chen(Meituan), Zefeng Lin(IA, CAS), Xinyu Xing(ByteDance), Hanqi Jin(Alibaba), Yue Cao(Meituan), Shaowei Yao(Alibaba), Yajie Ye(ByteDance), Yuanyuan Zhao(Shandong Provincial Department of Education), Yitao Cai(ByteDance), Zhe Lin(Alibaba), Sheng Xu(Meituan)</li>
+				  <li>I have also worked with many diligent, honest and talented undergraduate students. </li>
+				</ul>
 
-         
+                <h3>Links</h3>
+				<ul>
+				  <li><a href="https://sites.google.com/site/wanxiaojun1979">My Former Website on Google Sites</a> </li>
+				</ul>
+				
+				<hr>
+				<i>Last Updated: August 2022.              Visitor number: <a href="http://www.hitwebcounter.com" target="_blank" >
+                <img src="http://hitwebcounter.com/counter/counter.php?page=7029686&style=0006&nbdigits=8&type=page&initCount=0" title="URL Counter" Alt="URL Counter"   border="0" >
+               </a>
+               </i>               
+				
+			</td>
+		</tr>
+	</tbody></table>
+	</center>
+</font>
 
-<div class="block-row">
-    <div class="slider" interval="5000">
-        <div class="slider-mask"></div>
-        <div class="slider-logo"></div>
+                             
 
-        <img src="https://thunlp.oss-cn-qingdao.aliyuncs.com/web_image/slider1.jpeg" class="slider-img" />
-        <img src="https://thunlp.oss-cn-qingdao.aliyuncs.com/web_image/slider2.jpeg" class="slider-img" />
-        <img src="https://thunlp.oss-cn-qingdao.aliyuncs.com/web_image/slider3.jpeg" class="slider-img" />
-    </div>
-    <div id="title">
-        <p class="color-green" style="font-weight: bold; font-size: 32px;">THUNLP</p>
-        <p style="color: white; font-size: 40px;">清华大学</p>
-        <p style="color: white; font-size: 40px;">自然语言处理与社会人文计算实验室</p>
-    </div>
-    <div id="title-triangle" class="color-green">
-        <span>&gt;</span><span style="opacity: 0.8;">&gt;</span><span style="opacity: 0.6;">&gt;</span>
-    </div>
-</div>
-
-<div class="block-row" id="block-introduction">
-    <div class="block" style="padding: 70px 0;">
-        <div class="col-container" style="width: 58.7%;">
-            <div id="leader">
-                <div class="subtitle" subtitle="THUNLP Academic Leader">学术带头人</div>
-                <div id="leader-info">
-                    <div id="leader-photo">
-                        <img width="290" src="https://thunlp.oss-cn-qingdao.aliyuncs.com/web_image/bosssun.jpg" />
-                    </div>
-                    <div id="leader-intro" class="color-hint">
-                        孙茂松，长聘教授，博士生导师，现任清华大学人工智能研究院常务副院长、清华大学计算机学位评定分委员会主席、教育部在线教育研究中心副主任、清华大学大规模在线开放教育研究中心主任。曾任清华大学计算机系主任、党委书记。
-                        <a class="learn-more button" href="/staff/sms/">了解更多</a>
-                    </div>
-                </div>
-                
-            </div>
-        </div>
-        <div class="col-container" style="width: 41.3%;">
-            <div id="group-intro">
-                <div style="height: 100%; position: relative;">
-                    <div class="subtitle" subtitle="THUNLP Group Introduction">课题组简介</div>
-                    <div id="group-intro-content" class="color-hint">
-                        实验室早在20世纪70年代末就在黄昌宁教授带领下从事自然语言处理研究工作，是国内开展相关研究最早、深具影响力的科研单位，是中国中文信息学会（全国一级学会）计算语言学专业委员会挂靠单位。实验室瞄准以中文为核心的自然语言处理前沿课题，进行系统、深入的研究，取得了一系列有世界影响力的原创成果，培养了一批人工智能优秀人才。
-                    </div>
-                    <!--<a class="learn-more button" href="#">了解更多</a>-->
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-
-<div class="block-row" id="block-research">
-    <div style="position: absolute; width: 100%; height: 350px; z-index: -2; background-color: rgb(24, 62, 161);"></div>
-    <div class="block" style="padding: 50px 50px 30px 50px;">
-        <div style="width: 100%;">
-            <div class="subtitle" subtitle="Highlight Demo">亮点工作</div>
-            <!--<div class="color-hint-2" style="width: 420px; float: right; margin-top: 28px;">
-                就是用计算机来处理人类的语言(英文、中文等)。由于语言是人类区别于动物的根本标志，没有语言。由于语言是人类区别于动物。
-            </div>-->
-        </div>
-    </div>
-
-    <div class="block" id="card-row" style="padding-bottom: 50px;">
-        <div class="card-container">
-            <div class="card">
-                <div class="card-qrcode-containter">
-                    <img src="https://thunlp.oss-cn-qingdao.aliyuncs.com/web_image/jiugeqrcode.jpg" />
-                </div>
-                <div class="card-qrcode-logo"></div>
-
-                <div class="card-content">
-                    <div class="card-image">
-                        <img src="https://thunlp.oss-cn-qingdao.aliyuncs.com/web_image/jiugelogo.jpg" />
-                    </div>
-                    <div class="card-title">九歌|自动作诗</div>
-                    <div class="card-description color-hint" style="line-height: 1.8em;">
-                       九歌是一款人工智能中文诗歌写作系统。该系统采用最新的深度学习技术，结合多个为诗歌生成专门设计的模型，基于80余万首古人诗作进行训练。九歌支持多模态输入、多风格多体裁诗歌生成以及人机交互创作等功能。 
-                    </div>
-                    <a class="learn-more" href="https://jiuge.thunlp.org/">More</a>
-                </div>
-            </div>
-        </div>
-        <div class="card-container">
-            <div class="card">
-                <div class="card-qrcode-containter">
-                    <img src="https://thunlp.oss-cn-qingdao.aliyuncs.com/web_image/mtqrcode.png" />
-                </div>
-                <div class="card-qrcode-logo"></div>
-
-                <div class="card-content">
-                    <div class="card-image">
-                        <img src="https://thunlp.oss-cn-qingdao.aliyuncs.com/web_image/translationlogo.jpg" />
-                    </div>
-                    <div class="card-title">机器翻译</div>
-                    <div class="card-description color-hint" style="line-height: 1.8em;">
-                        THUMT开源机器翻译工具包，使用最先进的翻译模型，支持11种语言的翻译，效果比肩谷歌等商用机器翻译平台。此外，该工具包还支持文档级别翻译、并行加速、LRP可视化技术以及语音翻译等多种功能。
-                    </div>
-                    <a class="learn-more" href="http://101.6.5.207:3892">More</a>
-                </div>
-            </div>
-        </div>
-        <div class="card-container">
-            <div class="card">
-                <div class="card-qrcode-containter">
-                    <img src="https://thunlp.oss-cn-qingdao.aliyuncs.com/web_image/opennreqrcode.png" />
-                </div>
-                <div class="card-qrcode-logo"></div>
-
-                <div class="card-content">
-                    <div class="card-image">
-                        <img src="https://thunlp.oss-cn-qingdao.aliyuncs.com/web_image/calculationlogo.jpg" />
-                    </div>
-                    <div class="card-title">知识计算</div>
-                    <div class="card-description color-hint" style="line-height: 1.8em;">
-			OpenNRE神经网络关系抽取工具包，包括了多款常用的关系抽取模型，采用了模块化的框架，囊括了句子级别关系抽取、远监督关系抽取和少次学习关系抽取等丰富设定，支持TensorFlow与PyTorch作为基础的开发与部署。
-                    </div>
-                    <a class="learn-more" href="http://opennre.thunlp.ai/">More</a>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-
-<div class="block-row" id="block-news" style="padding-bottom: 155px;">
-    <div class="block" style="padding: 50px;">
-        <div class="subtitle" subtitle="News">最新动态</div>
-    </div>
-    <div class="block" style="padding: 28px 20px; position: relative;">
-		<div id="news-prev" class="news-page"><span>&lt;</span></div>
-
-
-		
-
-        <div class="news-container">
-            <div class="news">
-                <div class="news-image">
-<!--                    由于易引发版权纠纷，暂时隐藏图片显示-->
-<!--                    <img src="http://nlp.csai.tsinghua.edu.cn/media/images/openkeFeng_Mian__Vx9b7Xe.original.jpg" />-->
-                </div>
-				<a href="/project/openke/"><div class="news-title color-black">OpenKE：知识图谱表示学习工具包</div></a>
-                <!-- <div class="news-description color-hint"></div> -->
-            </div>
-        </div>
-
-		
-
-        <div class="news-container">
-            <div class="news">
-                <div class="news-image">
-<!--                    由于易引发版权纠纷，暂时隐藏图片显示-->
-<!--                    <img src="http://nlp.csai.tsinghua.edu.cn/media/images/THUMTFeng_Mian_.original.jpg" />-->
-                </div>
-				<a href="/project/thumt/"><div class="news-title color-black">THUMT：神经机器翻译工具包</div></a>
-                <!-- <div class="news-description color-hint"></div> -->
-            </div>
-        </div>
-
-		
-
-        <div class="news-container">
-            <div class="news">
-                <div class="news-image">
-<!--                    由于易引发版权纠纷，暂时隐藏图片显示-->
-<!--                    <img src="http://nlp.csai.tsinghua.edu.cn/media/images/timg_5SgsMKg.original.jpg" />-->
-                </div>
-				<a href="/project/thulac/"><div class="news-title color-black">THULAC：一个高效的中文词法分析工具包</div></a>
-                <!-- <div class="news-description color-hint"></div> -->
-            </div>
-        </div>
-
-		
-
-        <div class="news-container">
-            <div class="news">
-                <div class="news-image">
-<!--                    由于易引发版权纠纷，暂时隐藏图片显示-->
-<!--                    <img src="http://nlp.csai.tsinghua.edu.cn/media/images/Feng_Zi_Kai_Yin_Huang_Hua_Jiu_.original.jpg" />-->
-                </div>
-				<a href="/project/opennre/"><div class="news-title color-black">OpenNRE：可一键运行的开源关系抽取工具包</div></a>
-                <!-- <div class="news-description color-hint"></div> -->
-            </div>
-        </div>
-
-		
-        <div id="news-next" class="news-page active"><span>&gt;</span></div>
-    </div>
-</div>
-
-
-        
-        
-<div class="block-row footer">
-    <div class="block">
-        <div class="col-container" style="width: 50%;">
-            <div class="footer-align-center">
-                <p style="font-weight: bold; font-size: 28px;" class="color-green">THUNLP</p>
-                <img src="https://thunlp.oss-cn-qingdao.aliyuncs.com/web_image/qrcode.bmp" style="width: 130px; height: 130px; margin-top: 40px;" />
-            </div>
-        </div>
-        
-        <div class="col-container" style="width: 40%; display:none;">
-            <div class="footer-align-left" style="width: 400px; padding-top: 40px;">
-                <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=9DT9lxM5lQhxuhK_6-J2CbLheOnTpR3mb-2Bz76s4Yg&cl=ffffff&w=a"></script>
-            </div>
-        </div>
-
-        <div class="col-container" style="width: 50%;">
-            <div class="footer-align-left">
-                <p>Contact Us</p>
-                <p>Room 4-505</p>
-                <p>FIT Building</p>
-                <p>Tsinghua University</p>
-                <p>(+8610) 627-77701</p>
-            </div>
-        </div>
-    </div>
-</div>
-
-
-
-        
-        
-        
-    <script src="/static/js/slider.a7894e17a441.js" type="text/javascript"></script>
-
-    </body>
-</html>
+</body></html>
